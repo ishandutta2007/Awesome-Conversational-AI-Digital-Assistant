@@ -1,34 +1,52 @@
-# Awesome-Conversational-AI-Digital-Assistant
+# Awesome Conversational AI & Digital Assistant Ecosystem 🤖🎙️
 
-## Top Conversational AI & Digital Assistant Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Conversational AI & Digital Assistant Ecosystem" width="100%" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Enterprise Assistants, Personal AI Agents & Multimodal Conversational Interfaces*  
-**Last updated: March 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Digital-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Conversational-AI-Digital-Assistant?style=flat-square&logo=github" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Digital-Assistant/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Conversational-AI-Digital-Assistant?style=flat-square&logo=github" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Digital-Assistant/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Conversational-AI-Digital-Assistant?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Conversational-AI-Digital-Assistant/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Conversational AI & Digital Assistants**. These tools help organizations and individuals deploy AI-powered assistants that understand natural language, automate tasks, retrieve knowledge, and engage users across chat, voice, and messaging channels—covering everything from enterprise copilots to self-hosted personal assistants.
+> **A curated, comprehensive guide to state-of-the-art Conversational AI platforms, enterprise digital assistants, real-time voice agents, and self-hosted open-source second brain architectures.**  
+> *Last updated: March 2026*
 
-**Examples** include Microsoft Copilot, OpenAI ChatGPT Enterprise, Google Gemini Enterprise, IBM watsonx Assistant, Kore.ai, Amelia, Zoho Zia, and open-source alternatives like Pipecat, Khoj, and LibreChat (the category leaders).
+---
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted conversational AI, open-source voice frameworks, and community-driven personal assistants—ideal for organizations and individuals seeking data sovereignty and transparent model behavior over opaque enterprise SaaS.
+## 🧭 Table of Contents
+- [📌 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Enterprise Hosted Platforms](#-saas--enterprise-hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Architecture & Integration Guide](#️-architecture--integration-guide)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📊 Star History](#-star-history)
+- [📜 Disclaimer](#-disclaimer)
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📌 Sector Overview & Market Dynamics
 
-## Sector Overview & Market Dynamics
+The global **conversational AI and digital assistant** market is estimated at **~$17.7B to $19.7B in 2026**, on track to surpass **$40B+ by 2030** (expanding at an estimated **~22–24% CAGR**). 
 
-The global conversational AI and digital assistant market is estimated at ~$17.7B to $19.7B in 2026, projected to surpass $40B+ by 2030 (at an estimated ~22–24% CAGR). The market exhibits a dual dynamic: it is heavily concentrated at the foundational LLM, cloud, and core platform tier dominated by tech giants, yet moderately to highly fragmented across specialized application layers, vertical industry workflows, and open-source orchestration ecosystems.
+The industry demonstrates a compelling dual market structure:
+- **Foundational Layer (Concentrated):** The underlying foundation models, multi-modal LLM weights, speech foundation networks, and enterprise cloud infrastructure remain heavily concentrated among top hyperscalers and frontier labs (Microsoft, Google, OpenAI, IBM).
+- **Application & Orchestration Layer (Moderately to Highly Fragmented):** Specialized enterprise workflow copilots, real-time voice orchestration runtimes, contact center automation bots, and local-first privacy agents are actively distributed across numerous nimble SaaS providers and rapidly innovating open-source communities.
 
-## SaaS/Hosted Platforms
+---
 
-| Product | Scale (Valuation / Revenue) | Description | Pricing (Starting) | Free Tier / Free Trial Limits |
-|---------|-----------------------------|-------------|-------------------|-------------------------------|
+## 🏢 SaaS & Enterprise Hosted Platforms
+
+Curated leading commercial SaaS and managed platforms offering turn-key enterprise conversational AI, copilot suites, and omnichannel digital agents. Sorted by company scale (valuation / market capitalization descending):
+
+| Product | Scale (Valuation / Revenue) | Description | Starting Pricing | Free Tier / Free Trial Limits |
+|---|---|---|---|---|
 | **[Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-copilot)** | ~$3.9T Market Cap (Microsoft) | Enterprise AI assistant integrated across Microsoft 365 (Word, Excel, Teams, Outlook) and Windows. Grounded in organizational data via Microsoft Graph. | **$30/user/month** (annual commitment, Microsoft 365 Copilot add-on) | **30-day free trial** (up to 25 seats for qualifying Microsoft 365 business accounts; no upfront card required) |
 | **[Google Gemini Enterprise](https://cloud.google.com/gemini)** | ~$3.6T Market Cap (Alphabet) | Enterprise AI assistant integrated with Google Workspace and Google Cloud. Grounded in organizational data, with Vertex AI model garden access. | **$21/user/month** (annual commitment, Gemini Enterprise / Business add-on) | **30-day free trial** for Google Workspace enterprise add-ons (or 14-day trial for core Google Workspace accounts up to 10 users) |
 | **[OpenAI ChatGPT Enterprise](https://openai.com/enterprise)** | ~$1.25T Valuation / ~$50B ARR (OpenAI) | Enterprise-grade ChatGPT with advanced security, admin controls, unlimited high-speed GPT access, and data analysis. Does not train on business data. | **$20/user/month** (ChatGPT Business/Team billed annually; custom enterprise contracts typically start at $45–$75/user/month, min. 150 seats) | **No free trial for Enterprise/Team plans** (Consumer ChatGPT free tier available with standard rate limits) |
@@ -37,40 +55,77 @@ The global conversational AI and digital assistant market is estimated at ~$17.7
 | **[Amelia](https://amelia.ai/)** | ~$1.8B Market Cap (SoundHound AI; acquired Amelia for $80M) | Enterprise AI assistant (formerly IPsoft, now part of SoundHound AI) delivering autonomous agents for IT operations, customer service, and HR. | **$80,000/year** (Enterprise deployment contracts typically start at $80,000–$100,000+/year based on custom scoped volumes and integration requirements) | **No self-serve free trial** (Evaluation requires a guided enterprise sales engagement and customized pilot demo) |
 | **[Kore.ai](https://kore.ai/)** | ~$1.2B Valuation / ~$100M+ ARR (Kore.ai) | Enterprise conversational AI platform for building, deploying, and managing AI assistants across voice and digital channels. | **$100 account reload** (Pay-as-you-go model after free allowance; custom enterprise quotes for annual volume contracts) | **Free forever tier**: 5,000 free conversation sessions per account (up to 5 bots); standard 30-day enterprise evaluation trial |
 
-## Open-Source GitHub Projects
+---
+
+## 💻 Open-Source GitHub Projects
+
+Curated top-tier open-source repositories for building conversational agents, real-time voice assistants, personal second brains, and autonomous multi-agent pipelines. **Sorted by GitHub star count (descending)**:
 
 | Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[Pipecat](https://github.com/pipecat-ai/pipecat)** | [![Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social&color=white)](https://github.com/pipecat-ai/pipecat/stargazers) | **The leading open-source framework for real-time voice and multimodal AI agents.** BSD-2 licensed Python framework orchestrating speech-to-text, LLMs, and text-to-speech into ultra-low latency pipelines (500–800ms round-trip). Supports 150+ AI service integrations including Deepgram, OpenAI, Anthropic, ElevenLabs, and Cartesia. Multi-agent ready with handoff and parallel fan-out. Client SDKs for JavaScript, React, Swift, Kotlin, and ESP32. Deployable on your own infrastructure or Pipecat Cloud [citation:2][citation:9]. |
-| **[LibreChat](https://github.com/LibreChat-AI/LibreChat)** | [![Stars](https://img.shields.io/github/stars/LibreChat-AI/LibreChat?style=social&color=white)](https://github.com/LibreChat-AI/LibreChat/stargazers) | Enhanced open-source ChatGPT clone (~46.6k stars). Features Agents, MCP, Skills, multi-provider support (DeepSeek, Anthropic, AWS, OpenAI, Gemini, Groq, Mistral, OpenRouter), model switching, message search, Code Interpreter, DALL-E-3, secure multi-user auth, and self-hosting. The most mature open-source alternative to ChatGPT Enterprise for teams wanting full control [citation:11]. |
-| **[Khoj](https://github.com/khoj-ai/khoj)** | [![Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers) | Self-hostable personal AI assistant (~37.9k stars). Acts as a "second brain" that searches and chats across your notes, documents, and images. Supports web search, custom agents, scheduled automations, and deep research. Works with any online or local LLM (GPT, Claude, Gemini, Llama, Qwen, Mistral). Free to self-host [citation:11]. |
-
-### Additional Strong Open-Source Options
-
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[Herzen](https://github.com/pavel-arkharov/herzen)** | [![Stars](https://img.shields.io/github/stars/pavel-arkharov/herzen?style=social&color=white)](https://github.com/pavel-arkharov/herzen/stargazers) | **Local-first AI voice assistant runtime** for private, on-device orchestration. TypeScript monorepo using whisper.cpp for local STT, Ollama/llama-server for local LLM, and Silero VAD for endpointing. Integrates with Home Assistant for device control. Explicitly not a hosted product—focused on privacy, runtime control, and debuggable integration boundaries [citation:15]. |
-| **[PersonalJarvis](https://github.com/alvinreal/awesome-opensource-ai/blob/main/README.md#10)** | — | Desktop voice and chat assistant for Windows, macOS, and Linux with custom wake phrase, local speech-to-text, and a workspace that runs CLI coding agents side by side. Works with any model provider key or local models via Ollama [citation:1]. |
-| **[Off Grid AI Desktop](https://github.com/alvinreal/awesome-opensource-ai/blob/main/README.md#10)** | — | Local-first macOS AI app running LLM chat, image generation, voice transcription, and personal memory/RAG fully on-device via llama.cpp—nothing leaves the machine [citation:1]. |
-
-**Frameworks for building custom systems**: Combine **Pipecat** for real-time voice pipelines with low latency, **LibreChat** for a multi-user chat assistant with provider flexibility, and **Khoj** for personal knowledge retrieval across documents—all deployable locally or via Docker without per-MAU SaaS licensing.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Conversational AI assistants process potentially sensitive organizational knowledge and user conversations; enforce data residency controls, access logging, and compliance with applicable privacy regulations.
-- **Pricing transparency varies dramatically.** IBM watsonx Assistant publishes Plus at $140/month with 1,000 MAUs [citation:5], and Kore.ai offers 5,000 free sessions before requiring reload [citation:6]. Microsoft Copilot, ChatGPT Enterprise, Google Gemini Enterprise, and Amelia are quote-only with no public pricing. Open-source alternatives like **Pipecat** and **LibreChat** provide genuine voice and chat capabilities but require engineering effort for production hardening, observability, and security controls.
+|---|---|---|
+| **[Dify](https://github.com/langgenius/dify)** | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | All-in-one LLM application development platform for building agentic workflows, multi-agent teams, and conversational assistants with integrated visual RAG orchestration. |
+| **[Open WebUI](https://github.com/open-webui/open-webui)** | [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | Self-hosted, extensible AI user interface and conversational assistant for local and remote models (Ollama, OpenAI, Gemini). Includes RAG, web browsing, voice, and multi-user RBAC. |
+| **[AutoGen](https://github.com/microsoft/autogen)** | [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers) | Microsoft framework for building conversational multi-agent systems where autonomous agents converse to solve complex multi-turn tasks. |
+| **[LibreChat](https://github.com/LibreChat-AI/LibreChat)** | [![Stars](https://img.shields.io/github/stars/LibreChat-AI/LibreChat?style=social&color=white)](https://github.com/LibreChat-AI/LibreChat/stargazers) | Enhanced open-source ChatGPT clone with multi-provider AI support, Model Context Protocol (MCP), code execution, web search, multimodal agents, and multi-user administration. |
+| **[Coqui TTS](https://github.com/coqui-ai/TTS)** | [![Stars](https://img.shields.io/github/stars/coqui-ai/TTS?style=social&color=white)](https://github.com/coqui-ai/TTS/stargazers) | Deep learning toolkit for Text-to-Speech (TTS) voice generation, powering lifelike natural spoken interfaces for local and production voice assistants. |
+| **[OpenVoice](https://github.com/myshell-ai/OpenVoice)** | [![Stars](https://img.shields.io/github/stars/myshell-ai/OpenVoice?style=social&color=white)](https://github.com/myshell-ai/OpenVoice/stargazers) | Instant voice cloning and audio foundation model supporting flexible control over tone, emotion, accent, and cadence for conversational voice bots. |
+| **[Khoj](https://github.com/khoj-ai/khoj)** | [![Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers) | Self-hostable personal AI assistant and second brain. Chats and searches across your local notes, PDFs, and documents with scheduled automations and deep research. |
+| **[STORM](https://github.com/stanford-oval/storm)** | [![Stars](https://img.shields.io/github/stars/stanford-oval/storm?style=social&color=white)](https://github.com/stanford-oval/storm/stargazers) | LLM-powered knowledge curation and conversational research assistant developed at Stanford that conducts deep topic research with grounded citations. |
+| **[GPT Researcher](https://github.com/assafelovic/gpt-researcher)** | [![Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers) | Autonomous conversational research assistant capable of conducting comprehensive online web investigations and synthesizing detailed analytical reports. |
+| **[ElizaOS](https://github.com/elizaOS/eliza)** | [![Stars](https://img.shields.io/github/stars/elizaOS/eliza?style=social&color=white)](https://github.com/elizaOS/eliza/stargazers) | Modular multi-agent conversational AI operating system for deploying autonomous agents across Discord, Twitter, and custom digital assistant interfaces. |
+| **[Pipecat](https://github.com/pipecat-ai/pipecat)** | [![Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social&color=white)](https://github.com/pipecat-ai/pipecat/stargazers) | Framework for ultra-low latency real-time voice, video, and multimodal AI agents. Orchestrates STT, LLMs, and TTS with round-trip response under 800ms. |
+| **[LiveKit Agents](https://github.com/livekit/agents)** | [![Stars](https://img.shields.io/github/stars/livekit/agents?style=social&color=white)](https://github.com/livekit/agents/stargazers) | Real-time voice and multimodal AI agent framework built on WebRTC with turn detection, interruptions, and direct telephony support. |
+| **[Herzen](https://github.com/pavel-arkharov/herzen)** | [![Stars](https://img.shields.io/github/stars/pavel-arkharov/herzen?style=social&color=white)](https://github.com/pavel-arkharov/herzen/stargazers) | Local-first AI voice assistant runtime for private, on-device orchestration. TypeScript monorepo using whisper.cpp for local STT, Ollama for local LLM, and Silero VAD. |
 
 ---
 
-**Made for AI engineers, platform teams, personal productivity enthusiasts, and developers building conversational assistants.**  
-Let's make conversational AI more open, grounded, and controllable.
+## 🛠️ Architecture & Integration Guide
+
+Building state-of-the-art conversational AI assistants typically requires connecting several modular building blocks:
+
+1. **Audio Streaming & Voice Endpointing (Speech-to-Text):** Use **Pipecat** or **LiveKit Agents** paired with Silero VAD and Whisper/Deepgram for ultra-low-latency streaming audio pipelines.
+2. **Conversation & Reasoning Core (LLMs & Agents):** Run local models via Ollama/vLLM or connect frontier LLM providers (Anthropic Claude, OpenAI GPT, Google Gemini) orchestrated by **Dify**, **AutoGen**, or **ElizaOS**.
+3. **Knowledge Grounding & Retrieval (RAG):** Ground responses using your private documents and external search tools via **Khoj**, **Open WebUI**, or **STORM**.
+4. **Natural Vocal Expression (Text-to-Speech):** Synthesize expressive human-like spoken audio with **Coqui TTS**, **OpenVoice**, Cartesia, or ElevenLabs.
+5. **Full Privacy & Self-Hosting:** Deploy **LibreChat** or **Open WebUI** behind enterprise SSO/OAuth to maintain complete data sovereignty without recurring per-seat SaaS licensing.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions, project submissions, and suggestions are warmly welcomed!
+
+1. 🍴 **Fork** the repository.
+2. 🌿 **Create a branch** for your addition: `git checkout -b feature/add-new-assistant`.
+3. 📝 **Add or edit entries** in `README.md` keeping formatting clean, descriptions objective, and links accurate.
+4. 🚀 **Commit & Push** your changes: `git commit -m "Add New Assistant"` and `git push origin feature/add-new-assistant`.
+5. 📬 **Open a Pull Request** explaining why the project or platform is a great addition to the ecosystem.
+
+---
+
+## 💖 Support
+
+If you find this curated collection of Conversational AI & Digital Assistant tools valuable:
+- ⭐ **Star this repository** to keep up with the latest updates!
+- 🍴 **Fork and share** with colleagues, AI developers, and engineering teams.
+- ☕ **Support the maintainer**: If this list saved you time or helped your project, consider buying a coffee or becoming a sponsor at the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Conversational-AI-Digital-Assistant&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Conversational-AI-Digital-Assistant&type=date&legend=top-left)
+
+---
+
+## 📜 Disclaimer
+
+- This repository is a **community-curated index** intended for educational, research, and technical evaluation purposes. Inclusion does not imply official endorsement.
+- Conversational AI and digital assistants often ingest confidential enterprise communications and sensitive user knowledge; always verify data residency, telemetry practices, and regulatory compliance before deploying in production environments.
+- Listed pricing, tiers, and subscription conditions reflect public information available as of early 2026 and are subject to change by respective vendors.
+
+---
+
+<p align="center">
+  <sub>Maintained with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a> and the global AI open-source community.</sub>
+</p>
