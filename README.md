@@ -59,7 +59,7 @@ Curated leading commercial SaaS and managed platforms offering turn-key enterpri
 
 ## 💻 Open-Source GitHub Projects
 
-Curated top-tier open-source repositories for building conversational agents, real-time voice assistants, personal second brains, and autonomous multi-agent pipelines. **Sorted by GitHub Stars_Count (descending)**:
+Curated top-tier open-source repositories for building conversational agents, real-time voice assistants, personal second brains, and autonomous multi-agent pipelines. **Sorted by GitHub_Stars_Count (descending)**:
 
 | Project | Stars_Badge | Description |
 |---|---|---|
