@@ -125,13 +125,13 @@
     <circle cx="940" cy="220" r="100" fill="#ec4899" opacity="0.4" />
   </g>
 
-  <!-- DYNAMIC AUDIO & CONVERSATION WAVE PATHS (Background depth) -->
+  <!-- DYNAMIC AUDIO AND CONVERSATION WAVE PATHS -->
   <g opacity="0.28">
     <path class="dynamic-wave" d="M 0 310 C 250 260, 400 370, 650 310 C 900 250, 1050 360, 1200 310" fill="none" stroke="#60a5fa" stroke-width="2.5" />
     <path class="dynamic-wave" d="M 0 330 C 200 390, 450 270, 700 340 C 950 410, 1080 290, 1200 330" fill="none" stroke="#a855f7" stroke-width="2" />
   </g>
 
-  <!-- FOREGROUND HERO CONTENT (Guaranteed clean view) -->
+  <!-- FOREGROUND HERO CONTENT -->
   <g id="foreground-content">
     <!-- Top Pill Category -->
     <g transform="translate(430, 42)">
@@ -150,7 +150,7 @@
 
     <!-- Subtitle Description -->
     <text x="600" y="218" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#94a3b8" letter-spacing="0.2">
-      Enterprise Platforms &bull; Open-Source Voice Frameworks &bull; Autonomous Agent Architectures &bull; Local-First RAG
+      Enterprise Platforms &#8226; Open-Source Voice Frameworks &#8226; Autonomous Agent Architectures &#8226; Local-First RAG
     </text>
 
     <!-- Feature Badges / Highlights (Foreground) -->
@@ -196,7 +196,7 @@
     <g transform="translate(0, 375)">
       <line x1="120" y1="0" x2="1080" y2="0" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" />
       <text x="600" y="26" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#64748b" letter-spacing="1">
-        ⭐ CURATED SAAS &amp; OPEN-SOURCE ECOSYSTEM &bull; UPDATED FOR 2026 ⭐
+        ⭐ CURATED SAAS &amp; OPEN-SOURCE ECOSYSTEM &#8226; UPDATED FOR 2026 ⭐
       </text>
     </g>
   </g>
