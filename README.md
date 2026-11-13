@@ -59,9 +59,9 @@ Curated leading commercial SaaS and managed platforms offering turn-key enterpri
 
 ## 💻 Open-Source GitHub Projects
 
-Curated top-tier open-source repositories for building conversational agents, real-time voice assistants, personal second brains, and autonomous multi-agent pipelines. **Sorted by GitHub star count (descending)**:
+Curated top-tier open-source repositories for building conversational agents, real-time voice assistants, personal second brains, and autonomous multi-agent pipelines. **Sorted by GitHub Stars_Count (descending)**:
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---|---|---|
 | **[Dify](https://github.com/langgenius/dify)** | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | All-in-one LLM application development platform for building agentic workflows, multi-agent teams, and conversational assistants with integrated visual RAG orchestration. |
 | **[Open WebUI](https://github.com/open-webui/open-webui)** | [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) | Self-hosted, extensible AI user interface and conversational assistant for local and remote models (Ollama, OpenAI, Gemini). Includes RAG, web browsing, voice, and multi-user RBAC. |
